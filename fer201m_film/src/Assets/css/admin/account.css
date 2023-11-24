@@ -1,0 +1,31 @@
+.admin-dashboard-nav-link {
+    color: white;
+    font-size: 17px;
+}
+
+#admin-dashboard {
+    background-color: rgba(38, 38, 38, 1);
+    list-style: none;
+    width: 250px;
+    padding: 0;
+}
+
+#admin-dashboard li {
+    padding: 15px 0px;
+    width: 100%;
+    text-align: center;
+}
+
+#admin-dashboard-header {
+    background-color: rgba(100, 100, 100, 1);
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.admin-active-nav-text {
+    color: rgba(94, 119, 246, 1);
+}
+
+.admin-active-nav-background {
+    background-color: rgba(57, 57, 57, 1);
+}

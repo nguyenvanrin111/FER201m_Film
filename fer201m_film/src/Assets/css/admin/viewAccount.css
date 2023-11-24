@@ -1,0 +1,31 @@
+
+#admin-account-list {
+    background-color: rgba(57, 57, 57, 1);
+    padding: 15px;
+    margin-top: 30px;
+}
+
+.admin-body {
+    margin: 50px 0;
+}
+
+#admin-ul-account {
+    list-style: none;
+    padding: 0;
+}
+
+#admin-ul-account li {
+    padding: 10px 0;
+}
+
+.link-btn {
+    margin-right: 10px;
+}
+
+#add-btn {
+    margin-bottom: 15px;
+}
+
+#admin-accounts-body{
+    margin: 20px 0;
+}

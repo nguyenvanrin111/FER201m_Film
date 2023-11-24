@@ -1,0 +1,32 @@
+#footer-box {
+  padding: 30px 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid white;
+  color: white;
+  margin-top: 100px;
+}
+
+.footer-flex-element {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: space-around;
+  font-size: 20px;
+}
+
+.footer-flex-element a {
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+}
+
+.footer-header-text {
+  font-weight: bold;
+}
+
+#footer-right-div {
+  width: 200px;
+}

@@ -1,0 +1,25 @@
+#txtAddComment,
+#txtComment {
+    background-color: #151515;
+    color: #ffffff;
+    border: none;
+}
+#txtAddComment{
+    font-size: 14px;
+    padding: 0.75rem;
+}
+#txtComment{
+    font-size: 12px;
+}
+#txtAddComment::placeholder,
+#txtComment::placeholder {
+    color: #ffffff;
+    opacity: 1;
+}
+#btnDeleteComment,
+#btnReplyComment {
+    text-decoration: none;
+    font-size: 10px;
+    color: #ffffff;
+    padding-top: 0;
+}

@@ -1,0 +1,185 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "role": 1,
+      "email": "tuan@gmail.com",
+      "name": "Hoàng Danh Tuấn3",
+      "birthday": "2001-11-22T00:00:00.000Z",
+      "address": "Hà Nội",
+      "password": "12345",
+      "isActive": true,
+      "urlAvatar": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.sforum.vn%2Fsforum%2Fwp-content%2Fuploads%2F2023%2F10%2Favatar-facebook-mac-dinh-52.jpg&tbnid=Aabi9hvgo7xaDM&vet=12ahUKEwjxx7Lqlq2CAxVXQPUHHQBGCJEQMygAegQIARBI..i&imgrefurl=https%3A%2F%2Fcellphones.com.vn%2Fsforum%2Favatar-facebook-mac-dinh&docid=emvPZwbcI-yRPM&w=1200&h=675&q=avatar%20facebook&ved=2ahUKEwjxx7Lqlq2CAxVXQPUHHQBGCJEQMygAegQIARBI"
+    },
+    {
+      "id": 2,
+      "role": 1,
+      "email": "rin@gmail.com",
+      "name": "Nguyễn Văn Rin",
+      "birthday": "2001-11-11",
+      "address": "Bắc Giang",
+      "password": "12345",
+      "isActive": true,
+      "urlAvatar": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fvnn-imgs-a1.vgcloud.vn%2Fimage1.ictnews.vn%2F_Files%2F2020%2F03%2F17%2Ftrend-avatar-1.jpg&tbnid=c9TmKniCXKyw0M&vet=12ahUKEwjxx7Lqlq2CAxVXQPUHHQBGCJEQMygCegQIARBM..i&imgrefurl=https%3A%2F%2Fvietnamnet.vn%2Fdan-mang-du-trend-facebook-doi-avatar-thanh-mat-trang-i63266.html&docid=PpS_ti42pC0KOM&w=650&h=410&q=avatar%20facebook&ved=2ahUKEwjxx7Lqlq2CAxVXQPUHHQBGCJEQMygCegQIARBM"
+    },
+    {
+      "id": 3,
+      "role": 0,
+      "email": "minh@gmail.com",
+      "name": "Phan Van Minh",
+      "birthday": "2001-11-11",
+      "address": "Hà Nội",
+      "password": "12345",
+      "isActive": true,
+      "urlAvatar": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.sforum.vn%2Fsforum%2Fwp-content%2Fuploads%2F2023%2F10%2Favatar-facebook-mac-dinh-52.jpg&tbnid=Aabi9hvgo7xaDM&vet=12ahUKEwjxx7Lqlq2CAxVXQPUHHQBGCJEQMygAegQIARBI..i&imgrefurl=https%3A%2F%2Fcellphones.com.vn%2Fsforum%2Favatar-facebook-mac-dinh&docid=emvPZwbcI-yRPM&w=1200&h=675&q=avatar%20facebook&ved=2ahUKEwjxx7Lqlq2CAxVXQPUHHQBGCJEQMygAegQIARBI"
+    },
+    {
+      "id": 4,
+      "role": 1,
+      "email": "hieu@gmail.com",
+      "fullName": "Nguyen Minh Hieu",
+      "password": "12345",
+      "isActive": true,
+      "membership": {
+        "status": "active",
+        "expiry_date": "2023-12-07"
+      },
+      "name": "hieu",
+      "birthday": null
+    },
+    {
+      "id": 5,
+      "email": "quan@gmail.com",
+      "name": "Nguyen Anh Quan",
+      "birthday": "2001-11-11",
+      "address": "Hà Nội",
+      "password": "12345",
+      "isActive": true,
+      "urlAvatar": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fict-imgs.vgcloud.vn%2F2020%2F09%2F01%2F19%2Fhuong-dan-tao-facebook-avatar.jpg&tbnid=vgfwM8XnwBpKyM&vet=12ahUKEwjxx7Lqlq2CAxVXQPUHHQBGCJEQMygHegQIARBW..i&imgrefurl=https%3A%2F%2Fvietnamnet.vn%2Fhuong-dan-tao-facebook-avatar-phien-ban-hoat-hinh-cua-chinh-ban-i262917.html&docid=soplCMKNgl-WUM&w=1079&h=719&q=avatar%20facebook&ved=2ahUKEwjxx7Lqlq2CAxVXQPUHHQBGCJEQMygHegQIARBW"
+    },
+    {
+      "id": 6,
+      "email": "long@gmail.com",
+      "name": "Vu The Long",
+      "birthday": "2001-11-11",
+      "address": "Hà Nội",
+      "password": "12345",
+      "isActive": true
+    },
+    {
+      "email": "lorenkid661@gmail.com",
+      "password": "12345",
+      "isActive": true,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "role": 0,
+      "fullName": "Nguyen Minh Hieu",
+      "email": "hieunmhe151248@fpt.edu.vn",
+      "password": "12345",
+      "isActive": true,
+      "membership": {
+        "status": "active",
+        "expiry_date": "2023-12-08"
+      }
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "12345",
+      "isActive": true,
+      "id": 9,
+      "role": 0
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "filmId": 1,
+      "accountId": 2,
+      "content": "Phim này xem chán vãi, abcxyz!",
+      "parentId": null
+    },
+    {
+      "id": 2,
+      "filmId": 1,
+      "accountId": 3,
+      "content": "Không hay gì",
+      "parentId": null
+    },
+    {
+      "id": 3,
+      "filmId": 3,
+      "accountId": 1,
+      "content": "Spam bình luận!",
+      "parentId": 2
+    },
+    {
+      "id": 4,
+      "filmId": 2,
+      "accountId": 1,
+      "content": "Spam bình luận",
+      "parentId": null
+    },
+    {
+      "id": 5,
+      "filmId": 1,
+      "accountId": 1,
+      "content": "Phim dở ẹc!",
+      "parentId": 1
+    }
+  ],
+  "transactions": [
+    {
+      "transaction_id": "1",
+      "user_id": 4,
+      "type": "payment",
+      "amount": 10.99,
+      "date": "2023-11-07",
+      "payment_method": "paypal"
+    },
+    {
+      "transaction_id": "2",
+      "user_id": 4,
+      "type": "payment",
+      "amount": 15.99,
+      "date": "2023-10-22",
+      "payment_method": "paypal"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "url_id": "1-ZnOYJhGV4SjHuaGB4MGNWH_yo9TxnCx",
+      "title": "Bố già",
+      "description": "Bố Già : Có bốn anh em tên Giàu, Sang, Phú và Quý sống trong một khu phố của tầng lớp lao động ở Thành phố Hồ Chí Minh. Trong đó Ba Sang, một phụ huynh đơn thân, chịu trách nhiệm nuôi dạy Qắn và Bu Tọt một mình. Quân là một Youtuber được trả tiền cho lượt xem trên nền tảng này. Anh ấy thích sưu tập hàng hiệu đắt tiền. Bà Cẩm Lệ, chủ tiệm may, ở cạnh nhà của cha con ông Sang. Bà Lệ thường xuyên giúp đỡ gia đình ông Sang vì họ là bạn tốt của nhau. Bà Hai Giàu đã có những phát biểu trong buổi lễ mừng thọ cho con trai mình là Bình Lợi thăng quan tiến chức khiến Qắn bực bội, rồi bà bỏ đi. Một lúc sau, Út Quý say sỉn xuất hiện và bắt đầu tranh cãi với những người đi tiệc. Ba Sang bị thương khi bị Quý vô ý lấy chai bia đập vào đầu trong lúc xô xát. Hôm sau, ông Sang và Bu Tọt đến dinh Tư Phủ để lấy nước. Dì Anh, vợ anh Phú hỏi chuyện Ba Sang nhận nuôi bé Bu Tọt khiến chị Cẩm Lệ đang đứng gần vô cùng xúc động. Bà Giàu cũng có mặt ở đó, thúc giục ông Sang trả lại số tiền đã vay của bà trước đó, đồng thời khuyên bà Sang bán căn nhà đang ở. dọa sẽ cắt cụt một ngón tay của Quý nếu không trả tiền. Mặc cho Qắn hết sức can ngăn, Ba Sang đưa cho bọn chúng 10 triệu vì nghĩ thương gia đình. Vài ngày sau, Bình Lợi đến thăm Quân và khuyên anh nên mua một căn hộ. Qắn sau đó đã giấu Ba Sang để đặt cọc tiền mua căn hộ, bất chấp việc anh này tỏ ra không mặn mà với việc này. Anh kể cho cha nghe câu chuyện này để thuyết phục anh, bảo anh ở lại căn hộ một thời gian rồi chuyển về nếu không thể chấp nhận được",
+      "release_date": "2021",
+      "nation": "Việt Nam",
+      "genre": "Hài hước",
+      "time": "128 phút"
+    },
+    {
+      "id": 2,
+      "url_id": "1qzlEk493ZTPFX9oJNOMqa9lIYlMVI-aG",
+      "title": "Hôn lễ của em",
+      "description": "Hôn lễ của em là một bộ phim hài kịch lãng mạn năm 2021 của Trung Quốc do Hàn Thiên làm đạo diễn, đồng chấp bút kịch bản. Phim là phiên bản làm lại của bộ phim Hàn Quốc Ngày em đẹp nhất ra mắt năm 2018.      ",
+      "release_date": "2021",
+      "nation": "Trung Quốc",
+      "genre": "Tình cảm",
+      "time": "116 phút"
+    },
+    {
+      "id": 3,
+      "url_id": "1tdIUdFh1PAtQdUE8WwH4sE2l127JmmzT",  
+      "title": "Người Nhện- Du Hành Vũ Trụ Nhện",
+      "description": "Người Nhện: Du hành Vũ trụ Nhện là một bộ phim hoạt hình máy tính siêu anh hùng của Mỹ năm 2023 có nhân vật Marvel Comics Miles Morales / Spider-Man, được sản xuất bởi Columbia Pictures và Sony Pictures Animation cùng với Marvel Entertainment và được phân phối bởi Sony Pictures Releasing      ",
+      "release_date": "2023",
+      "nation": "Mỹ",
+      "genre": "Hoạt hình",
+      "time": "116 phút"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
